@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/Just9krish/Chat-app-css-illustration-master/blob/42f048581bf9d75d09e1ed3a3e8fd020e405f907/design/desktop-preview.jpg)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/chat-app-css-illustration-NPF8TOFKD)
 - Live Site URL: [Click here](https://chat-app-css-illustration-by-just9krish.netlify.app/)
 
 ## My process
