@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/Just9krish/Huddle-Landing-Page/blob/d08b325c61c994ab1c24fe511d0a3a98a6e9006b/design/desktop-preview.jpg)
+![](https://github.com/Just9krish/Chat-app-css-illustration-master/blob/5c39ee810c0dadee08061475d4224b385198d08f/design/desktop-preview.jpg)
 
 ### Links
 
